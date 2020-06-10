@@ -1,0 +1,6 @@
+[email]
+smtp_server=smtp.163.com
+port=25
+sender=aihui_1231@163.com
+psw=chen931119
+receiver=axfyyy@qq.com
